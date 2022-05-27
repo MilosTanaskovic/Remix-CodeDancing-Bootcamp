@@ -1,7 +1,7 @@
 # Welcome to Remix!
 
 - [Remix Docs](https://remix.run/docs)
-- Remix Blog
+- Remix Blog Milos
 
 ## Development
 
