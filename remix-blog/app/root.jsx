@@ -50,12 +50,15 @@ function Layout({ children }) {
     <>
       <nav className="navbar">
         <Link to='/' className='logo'> 
-          Remix        
+          Remix      
         </Link>
 
         <ul className="nav">
           <li>
-            <Link to='/post'>Posts</Link>
+            <Link to='/posts'>Posts</Link>
+          </li>
+          <li>
+            <Link to='/about'>About</Link>
           </li>
         </ul>
       </nav>
